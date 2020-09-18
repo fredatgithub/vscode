@@ -83,7 +83,7 @@
     "tslint": "^3.2.2",
     "tslint-microsoft-contrib": "^2.0.0",
     "typescript": "^1.7.3",
-    "uglify-js": "2.4.8",
+    "uglify-js": "3.10.4",
     "underscore": "^1.8.2",
     "vinyl": "^0.4.5"
   },
